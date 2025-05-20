@@ -12,6 +12,31 @@
 
 ---
 
-## Visualisierung
+1️⃣ Trigger: Outlook – „When a new email arrives“
+Filter: Betreff enthält „Task“, „Deadline“, „Fällig“
 
-![E-Mail zu Task Flow](../img/email-task-flow.png)
+Optional: Bestimmte Absender
+
+2️⃣ Extrahiere Aufgabe/Deadline
+Betreff und Inhalt der Mail analysieren
+
+In Variablen speichern
+
+3️⃣ Check auf Duplikate
+Suche in Excel/ToDo/Planner nach gleichem Task (z. B. per Betreff)
+
+Wenn NEU → Aufgabe hinzufügen
+
+4️⃣ Teams Reminder
+„Post a message in Teams“: Reminder für alle neuen Tasks/Deadlines
+
+Visualisierung
+┌──────────────┐
+│ Neue Mail    │
+└─────┬────────┘
+      ↓
+[Extrahiere Task]
+      ↓
+[Check: Schon drin?]
+      ↓
+[Teams Reminder senden]
