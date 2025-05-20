@@ -11,7 +11,7 @@ Willkommen! Hier findest du kompakte und sofort einsetzbare Schritt-für-Schritt
 | [Teams Reminder](workflows/reminder-teams.md)   | Reminder für Tasks & Deadlines in Teams-Chat
 | [OneNote Meeting-Button](workflows/onenote-meeting-button.md) | 1-Click Meeting-Notiz in OneNote
 | [Email → Task/Reminder](workflows/email-to-task.md)           | Aufgaben aus E-Mail automatisch erfassen
-
+| [IFQ-Checker](workflows/ifq-checker.md)           | IFQ auf leere Felder prüfen
 ---
 
 ## 💡 Quickstart
