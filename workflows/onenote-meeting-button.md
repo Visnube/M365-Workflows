@@ -27,10 +27,3 @@ Inhalt:
 <ul><li></li><li></li><li></li></ul>
 
 3️⃣ Flow speichern, testen und Button verwenden
-
-📊 Visualisierung
-[Button drücken]
-      ↓
-[OneNote-Seite "JF Nico – 22.05.2025" wird erstellt]
-      ↓
-[Meeting starten, Notizen machen]
