@@ -29,14 +29,3 @@ Wenn NEU → Aufgabe hinzufügen
 
 4️⃣ Teams Reminder
 „Post a message in Teams“: Reminder für alle neuen Tasks/Deadlines
-
-Visualisierung
-┌──────────────┐
-│ Neue Mail    │
-└─────┬────────┘
-      ↓
-[Extrahiere Task]
-      ↓
-[Check: Schon drin?]
-      ↓
-[Teams Reminder senden]
