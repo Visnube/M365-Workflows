@@ -6,11 +6,11 @@ Willkommen! Hier findest du kompakte und sofort einsetzbare Schritt-für-Schritt
 
 ## 📚 Workflows-Übersicht
 
-| Workflow                          | Kurzbeschreibung                     | Visualisierung           |
-| ---------------------------------- | ------------------------------------ | ------------------------ |
-| [Teams Reminder](workflows/reminder-teams.md)   | Reminder für Tasks & Deadlines in Teams-Chat | ![Teams](img/teams-emoji.png)   |
-| [OneNote Meeting-Button](workflows/onenote-meeting-button.md) | 1-Click Meeting-Notiz in OneNote           | ![OneNote](img/onenote-emoji.png) |
-| [Email → Task/Reminder](workflows/email-to-task.md)           | Aufgaben aus E-Mail automatisch erfassen   | ![Mail](img/mail-emoji.png)      |
+| Workflow                          | Kurzbeschreibung                     
+| ---------------------------------- | ------------------------------------
+| [Teams Reminder](workflows/reminder-teams.md)   | Reminder für Tasks & Deadlines in Teams-Chat
+| [OneNote Meeting-Button](workflows/onenote-meeting-button.md) | 1-Click Meeting-Notiz in OneNote
+| [Email → Task/Reminder](workflows/email-to-task.md)           | Aufgaben aus E-Mail automatisch erfassen
 
 ---
 
