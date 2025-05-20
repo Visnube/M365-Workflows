@@ -33,9 +33,7 @@ Bedingung: Fälligkeitsdatum <= heute UND Status offen
 Power Automate: „Filter array“ oder bei Excel: Filter direkt in Aktion
 
 4️⃣ Teams-Nachricht senden
-plaintext
-Kopieren
-Bearbeiten
+
 [Aktion: Post message in chat or channel]
 → Text z.B.:
 Hallo Visnu, folgende Tasks sind fällig:
