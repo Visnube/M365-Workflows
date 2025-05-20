@@ -1,4 +1,4 @@
-# 🚀 Aldi Workflow-Repo
+# 🚀 M365 Workflow-Repo
 
 Willkommen! Hier findest du kompakte und sofort einsetzbare Schritt-für-Schritt-Anleitungen für typische Automatisierungs-Workflows im Office (Teams, OneNote, E-Mail, Excel).
 
