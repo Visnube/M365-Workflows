@@ -118,7 +118,3 @@ End Sub
 You can change the tab names and columns to match your IFQ template.
 
 The result is always shown and added to a ready-to-send Outlook email.
-
-Works 100% locally, no data is uploaded.
-
-You need Microsoft Outlook installed.
